@@ -20,25 +20,6 @@ const capaFile = path.join(CONTA_DIR, 'capa_url.txt');
 const capaUrl = fs.existsSync(capaFile) ? fs.readFileSync(capaFile, 'utf8').trim() : '';
 
 const GRAPH = 'https://graph.facebook.com/v21.0';
-
-// Avisos (issues) no idioma escolhido no painel: config.json "idioma" = "pt" | "en".
-const TXT = {
-  pt: {
-    acabou: ['Acabaram os vídeos', 'Todos os vídeos da fila já foram postados. Envie mais vídeos pelo painel.'],
-    falha: ['Falha ao postar', (n, m) => `video_${n} falhou: ${m}`],
-    bio: [l => `Trocar a bio do Instagram (lote ${l})`, (l, leg) => `Nova legenda do lote ${l}:\n\n${leg}`],
-    acabando: ['Vídeos acabando', 'Faltam 12 vídeos pra postar. Envie mais vídeos pelo painel.'],
-    erro: 'Erro na automação',
-  },
-  en: {
-    acabou: ['Out of videos', 'All videos in the queue have been posted. Upload more videos in the panel.'],
-    falha: ['Post failed', (n, m) => `video_${n} failed: ${m}`],
-    bio: [l => `Update your Instagram bio (batch ${l})`, (l, leg) => `New caption for batch ${l}:\n\n${leg}`],
-    acabando: ['Running out of videos', '12 videos left to post. Upload more videos in the panel.'],
-    erro: 'Automation error',
-  },
-};
-const T = TXT[cfg.idioma] || TXT.pt;
 const LOG_FILE = path.join(BASE, 'postar.log');
 const NA_NUVEM = process.env.GITHUB_ACTIONS === 'true';
 
@@ -122,7 +103,7 @@ function salvarEstado() {
 async function main() {
   if (estado.proximo_video > estado.video_maximo) {
     log('Nenhum vídeo restante para postar.');
-    avisar(T.acabou[0], T.acabou[1]);
+    avisar('Acabaram os vídeos', 'Todos os vídeos da pasta já foram postados. Envie mais vídeos pelo painel.');
     return;
   }
 
@@ -143,7 +124,7 @@ async function main() {
     log(`OK - video_${num} publicado. media_id=${mediaId}`);
   } catch (e) {
     log(`FALHOU video_${num}: ${e.message}`);
-    avisar(T.falha[0], T.falha[1](num, e.message));
+    avisar('Falha ao postar', `video_${num} falhou: ${e.message}`);
     return;
   }
 
@@ -156,14 +137,14 @@ async function main() {
     if (legendas.length > 1) {
       const novaLegendaObj = legendas[(estado.lote_atual - 1) % legendas.length];
       log(`Legenda trocou para o lote ${estado.lote_atual}. Atualize a bio.`);
-      avisar(T.bio[0](estado.lote_atual), T.bio[1](estado.lote_atual, novaLegendaObj.legenda));
+      avisar(`Trocar a bio do Instagram (lote ${estado.lote_atual})`, `Nova legenda do lote ${estado.lote_atual}:\n\n${novaLegendaObj.legenda}`);
     }
   }
 
   const restantes = estado.video_maximo - estado.proximo_video + 1;
   if (restantes === 12) {
     log('Faltam 12 vídeos. Avisando.');
-    avisar(T.acabando[0], T.acabando[1]);
+    avisar('Vídeos acabando', 'Faltam 12 vídeos pra postar. Envie mais vídeos pelo painel.');
   }
 
   salvarEstado();
@@ -171,5 +152,5 @@ async function main() {
 
 main().catch(e => {
   log(`ERRO GERAL: ${e.message}`);
-  avisar(T.erro, e.message);
+  avisar('Erro na automação', e.message);
 });
