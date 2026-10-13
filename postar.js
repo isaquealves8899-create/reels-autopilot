@@ -1,3 +1,4 @@
+// robo-versao: 2 (o painel nunca troca o robô por um de versão menor)
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
@@ -20,6 +21,25 @@ const capaFile = path.join(CONTA_DIR, 'capa_url.txt');
 const capaUrl = fs.existsSync(capaFile) ? fs.readFileSync(capaFile, 'utf8').trim() : '';
 
 const GRAPH = 'https://graph.facebook.com/v21.0';
+
+// Avisos (issues) no idioma escolhido no painel: config.json "idioma" = "pt" | "en".
+const TXT = {
+  pt: {
+    acabou: ['Acabaram os vídeos', 'Todos os vídeos da fila já foram postados. Envie mais vídeos pelo painel.'],
+    falha: ['Falha ao postar', (n, m) => `video_${n} falhou: ${m}`],
+    bio: [l => `Trocar a bio do Instagram (lote ${l})`, (l, leg) => `Nova legenda do lote ${l}:\n\n${leg}`],
+    acabando: ['Vídeos acabando', 'Faltam 12 vídeos pra postar. Envie mais vídeos pelo painel.'],
+    erro: 'Erro na automação',
+  },
+  en: {
+    acabou: ['Out of videos', 'All videos in the queue have been posted. Upload more videos in the panel.'],
+    falha: ['Post failed', (n, m) => `video_${n} failed: ${m}`],
+    bio: [l => `Update your Instagram bio (batch ${l})`, (l, leg) => `New caption for batch ${l}:\n\n${leg}`],
+    acabando: ['Running out of videos', '12 videos left to post. Upload more videos in the panel.'],
+    erro: 'Automation error',
+  },
+};
+const T = TXT[cfg.idioma] || TXT.pt;
 const LOG_FILE = path.join(BASE, 'postar.log');
 const NA_NUVEM = process.env.GITHUB_ACTIONS === 'true';
 
@@ -100,18 +120,19 @@ function salvarEstado() {
   fs.writeFileSync(path.join(CONTA_DIR, 'estado.json'), JSON.stringify(estado, null, 2));
 }
 
-async function main() {
+// Posta o próximo vídeo da fila. Retorna false quando não deu (fila vazia, sem URL ou falha).
+async function postarUm() {
   if (estado.proximo_video > estado.video_maximo) {
     log('Nenhum vídeo restante para postar.');
-    avisar('Acabaram os vídeos', 'Todos os vídeos da pasta já foram postados. Envie mais vídeos pelo painel.');
-    return;
+    avisar(T.acabou[0], T.acabou[1]);
+    return false;
   }
 
   const num = estado.proximo_video;
   const videoUrl = videoUrls[String(num)];
   if (!videoUrl) {
     log(`video_${num} não tem URL no Cloudinary ainda. Abortando.`);
-    return;
+    return false;
   }
 
   const legendaObj = legendas.length ? legendas[(estado.lote_atual - 1) % legendas.length] : { legenda: '' };
@@ -124,8 +145,8 @@ async function main() {
     log(`OK - video_${num} publicado. media_id=${mediaId}`);
   } catch (e) {
     log(`FALHOU video_${num}: ${e.message}`);
-    avisar('Falha ao postar', `video_${num} falhou: ${e.message}`);
-    return;
+    avisar(T.falha[0], T.falha[1](num, e.message));
+    return false;
   }
 
   estado.proximo_video += 1;
@@ -137,20 +158,35 @@ async function main() {
     if (legendas.length > 1) {
       const novaLegendaObj = legendas[(estado.lote_atual - 1) % legendas.length];
       log(`Legenda trocou para o lote ${estado.lote_atual}. Atualize a bio.`);
-      avisar(`Trocar a bio do Instagram (lote ${estado.lote_atual})`, `Nova legenda do lote ${estado.lote_atual}:\n\n${novaLegendaObj.legenda}`);
+      avisar(T.bio[0](estado.lote_atual), T.bio[1](estado.lote_atual, novaLegendaObj.legenda));
     }
   }
 
   const restantes = estado.video_maximo - estado.proximo_video + 1;
   if (restantes === 12) {
     log('Faltam 12 vídeos. Avisando.');
-    avisar('Vídeos acabando', 'Faltam 12 vídeos pra postar. Envie mais vídeos pelo painel.');
+    avisar(T.acabando[0], T.acabando[1]);
   }
 
   salvarEstado();
+  return true;
+}
+
+// Postagem em massa: config.json "posts_por_vez" (ex.: 10 às 20h). O botão de teste do painel
+// manda QUANTIDADE=1. O primeiro erro encerra a rodada; o resto fica pro próximo horário.
+async function main() {
+  const quantidade = Math.max(1, Math.min(50, Number(process.env.QUANTIDADE) || Number(cfg.posts_por_vez) || 1));
+  if (quantidade > 1) log(`Rodada em massa: até ${quantidade} vídeos.`);
+  for (let i = 0; i < quantidade; i++) {
+    if (i > 0) {
+      if (estado.proximo_video > estado.video_maximo) { log('Fila acabou no meio da rodada.'); break; }
+      await sleep(20000); // respiro entre posts seguidos
+    }
+    if (!(await postarUm())) break;
+  }
 }
 
 main().catch(e => {
   log(`ERRO GERAL: ${e.message}`);
-  avisar('Erro na automação', e.message);
+  avisar(T.erro, e.message);
 });
