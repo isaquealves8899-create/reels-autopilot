@@ -1,9 +1,17 @@
 {
-  "atualizado": "2026-10-16T16:36:25.750Z",
+  "atualizado": "2026-10-16T17:06:35.687Z",
   "seguidores": 21,
-  "total_posts": 35,
+  "total_posts": 36,
   "erro": null,
   "midias": [
+    {
+      "id": "18009515195994815",
+      "data": "2026-10-16T17:06:33+0000",
+      "link": "https://www.instagram.com/reel/DekB48pkitL/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18116310845030480",
       "data": "2026-10-16T16:36:16+0000",
@@ -16,8 +24,8 @@
       "id": "18134452243783846",
       "data": "2026-10-16T16:06:16+0000",
       "link": "https://www.instagram.com/reel/Dej6_60iHrC/",
-      "views": 51,
-      "likes": 2,
+      "views": 155,
+      "likes": 3,
       "comentarios": 0
     },
     {
@@ -104,7 +112,7 @@
       "id": "17950785912295257",
       "data": "2026-10-15T18:01:48+0000",
       "link": "https://www.instagram.com/reel/DehjZc_CClf/",
-      "views": 2691,
+      "views": 2692,
       "likes": 218,
       "comentarios": 0
     },
@@ -112,7 +120,7 @@
       "id": "17891359194455054",
       "data": "2026-10-15T17:02:02+0000",
       "link": "https://www.instagram.com/reel/DehchVnlZs0/",
-      "views": 1401,
+      "views": 1403,
       "likes": 133,
       "comentarios": 0
     },
@@ -128,7 +136,7 @@
       "id": "17936184237401345",
       "data": "2026-10-15T15:02:20+0000",
       "link": "https://www.instagram.com/reel/DehOyU6FUzb/",
-      "views": 192,
+      "views": 193,
       "likes": 15,
       "comentarios": 0
     },
@@ -144,7 +152,7 @@
       "id": "18097218878118133",
       "data": "2026-10-15T13:03:26+0000",
       "link": "https://www.instagram.com/reel/DehBJJnju_w/",
-      "views": 129,
+      "views": 130,
       "likes": 4,
       "comentarios": 0
     },
@@ -234,14 +242,6 @@
       "link": "https://www.instagram.com/reel/DeeVZFhCYmA/",
       "views": 62,
       "likes": 0,
-      "comentarios": 0
-    },
-    {
-      "id": "18093450566461913",
-      "data": "2026-10-14T11:01:07+0000",
-      "link": "https://www.instagram.com/reel/DeeOhbRjEbr/",
-      "views": 179,
-      "likes": 1,
       "comentarios": 0
     }
   ],
