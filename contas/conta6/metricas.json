@@ -1,14 +1,22 @@
 {
-  "atualizado": "2026-10-16T13:26:53.236Z",
+  "atualizado": "2026-10-16T14:26:02.547Z",
   "seguidores": 0,
-  "total_posts": 13,
+  "total_posts": 14,
   "erro": null,
   "midias": [
+    {
+      "id": "17937717948128451",
+      "data": "2026-10-16T14:25:53+0000",
+      "link": "https://www.instagram.com/reel/DejvikKH_wJ/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18147502543612501",
       "data": "2026-10-16T13:26:45+0000",
       "link": "https://www.instagram.com/reel/DejoyMcAjlp/",
-      "views": 0,
+      "views": 160,
       "likes": 0,
       "comentarios": 0
     },
