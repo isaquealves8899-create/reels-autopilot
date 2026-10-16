@@ -565,3 +565,37 @@
 [2026-10-16T03:50:21.559Z] [conta3] Postando video_39 (lote 4, post 3/12)
 [2026-10-16T03:50:21.879Z] [conta3] FALHOU video_39: {"message":"Unsupported post request. Object with ID '17841416515016668' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AkOWklAWgnU6iEivTQD5_Kr"}
 [2026-10-16T03:50:21.993Z] [conta3] Métricas não atualizaram: Unsupported get request. Object with ID '17841416515016668' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2026-10-16T12:00:32.505Z] [conta1] Rodada em massa: até 15 vídeos.
+[2026-10-16T12:00:32.508Z] [conta1] Postando video_100 (lote 10, post 10/10)
+[2026-10-16T12:01:14.312Z] [conta1] OK - video_100 publicado. media_id=18106749740194196
+[2026-10-16T12:01:14.312Z] [conta1] Legenda trocou para o lote 11. Atualize a bio.
+[2026-10-16T12:01:34.330Z] [conta1] Postando video_101 (lote 11, post 1/10)
+[2026-10-16T12:02:46.448Z] [conta1] OK - video_101 publicado. media_id=18158973667541633
+[2026-10-16T12:03:06.459Z] [conta1] Postando video_102 (lote 11, post 2/10)
+[2026-10-16T12:03:49.217Z] [conta1] OK - video_102 publicado. media_id=18113672315589480
+[2026-10-16T12:04:09.233Z] [conta1] Postando video_103 (lote 11, post 3/10)
+[2026-10-16T12:05:42.252Z] [conta1] OK - video_103 publicado. media_id=18105460898292175
+[2026-10-16T12:06:02.269Z] [conta1] Postando video_104 (lote 11, post 4/10)
+[2026-10-16T12:06:44.092Z] [conta1] OK - video_104 publicado. media_id=18123309598923617
+[2026-10-16T12:07:04.108Z] [conta1] Postando video_105 (lote 11, post 5/10)
+[2026-10-16T12:07:45.828Z] [conta1] OK - video_105 publicado. media_id=18017971157944053
+[2026-10-16T12:08:05.845Z] [conta1] Postando video_106 (lote 11, post 6/10)
+[2026-10-16T12:08:46.185Z] [conta1] OK - video_106 publicado. media_id=18080451542707993
+[2026-10-16T12:09:06.187Z] [conta1] Postando video_107 (lote 11, post 7/10)
+[2026-10-16T12:09:49.209Z] [conta1] OK - video_107 publicado. media_id=18103332464637031
+[2026-10-16T12:10:09.216Z] [conta1] Postando video_108 (lote 11, post 8/10)
+[2026-10-16T12:10:52.124Z] [conta1] OK - video_108 publicado. media_id=17866015593680272
+[2026-10-16T12:11:12.141Z] [conta1] Postando video_109 (lote 11, post 9/10)
+[2026-10-16T12:11:52.943Z] [conta1] OK - video_109 publicado. media_id=18208339177372109
+[2026-10-16T12:12:12.944Z] [conta1] Postando video_110 (lote 11, post 10/10)
+[2026-10-16T12:13:35.945Z] [conta1] OK - video_110 publicado. media_id=18095499362151695
+[2026-10-16T12:13:35.945Z] [conta1] Legenda trocou para o lote 12. Atualize a bio.
+[2026-10-16T12:13:55.963Z] [conta1] Postando video_111 (lote 12, post 1/10)
+[2026-10-16T12:14:27.332Z] [conta1] OK - video_111 publicado. media_id=18103083260638727
+[2026-10-16T12:14:47.347Z] [conta1] Postando video_112 (lote 12, post 2/10)
+[2026-10-16T12:16:10.902Z] [conta1] OK - video_112 publicado. media_id=18211033744363079
+[2026-10-16T12:16:30.919Z] [conta1] Postando video_113 (lote 12, post 3/10)
+[2026-10-16T12:17:11.438Z] [conta1] OK - video_113 publicado. media_id=18466527310143998
+[2026-10-16T12:17:31.453Z] [conta1] Postando video_114 (lote 12, post 4/10)
+[2026-10-16T12:18:14.530Z] [conta1] OK - video_114 publicado. media_id=17987508693115349
+[2026-10-16T12:21:25.208Z] [conta1] Respondi 5 comentário(s).
