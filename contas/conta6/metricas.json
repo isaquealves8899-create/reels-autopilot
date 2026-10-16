@@ -1,9 +1,17 @@
 {
-  "atualizado": "2026-10-16T15:25:59.199Z",
+  "atualizado": "2026-10-16T15:56:16.567Z",
   "seguidores": 0,
-  "total_posts": 16,
+  "total_posts": 17,
   "erro": null,
   "midias": [
+    {
+      "id": "18132658447667552",
+      "data": "2026-10-16T15:56:11+0000",
+      "link": "https://www.instagram.com/reel/Dej54LglP0E/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18116698259587353",
       "data": "2026-10-16T15:25:52+0000",
@@ -16,7 +24,7 @@
       "id": "18104709629342622",
       "data": "2026-10-16T14:55:52+0000",
       "link": "https://www.instagram.com/reel/Dejy-RbFTr4/",
-      "views": 52,
+      "views": 121,
       "likes": 0,
       "comentarios": 0
     },
@@ -32,7 +40,7 @@
       "id": "18147502543612501",
       "data": "2026-10-16T13:26:45+0000",
       "link": "https://www.instagram.com/reel/DejoyMcAjlp/",
-      "views": 164,
+      "views": 165,
       "likes": 0,
       "comentarios": 0
     },
