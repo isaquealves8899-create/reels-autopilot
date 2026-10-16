@@ -562,3 +562,6 @@
 [2026-10-16T03:31:05.723Z] [conta7] OK - video_13 publicado. media_id=18118457446990550
 [2026-10-16T03:40:18.344Z] [conta5] Postando video_13 (lote 2, post 1/12)
 [2026-10-16T03:41:00.152Z] [conta5] OK - video_13 publicado. media_id=18188693056404158
+[2026-10-16T03:50:21.559Z] [conta3] Postando video_39 (lote 4, post 3/12)
+[2026-10-16T03:50:21.879Z] [conta3] FALHOU video_39: {"message":"Unsupported post request. Object with ID '17841416515016668' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AkOWklAWgnU6iEivTQD5_Kr"}
+[2026-10-16T03:50:21.993Z] [conta3] Métricas não atualizaram: Unsupported get request. Object with ID '17841416515016668' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
