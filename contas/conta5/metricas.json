@@ -1,9 +1,17 @@
 {
-  "atualizado": "2026-10-16T01:41:49.695Z",
+  "atualizado": "2026-10-16T02:11:35.345Z",
   "seguidores": 1,
-  "total_posts": 28,
+  "total_posts": 29,
   "erro": null,
   "midias": [
+    {
+      "id": "18451347403125762",
+      "data": "2026-10-16T02:11:28+0000",
+      "link": "https://www.instagram.com/reel/DeibfnxDc7f/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18140292961627130",
       "data": "2026-10-16T01:41:43+0000",
@@ -16,8 +24,8 @@
       "id": "17909689152559980",
       "data": "2026-10-16T01:10:54+0000",
       "link": "https://www.instagram.com/reel/DeiUlrGnCoa/",
-      "views": 0,
-      "likes": 0,
+      "views": 2,
+      "likes": 1,
       "comentarios": 0
     },
     {
@@ -48,7 +56,7 @@
       "id": "18179285437437686",
       "data": "2026-10-15T23:10:55+0000",
       "link": "https://www.instagram.com/reel/DeiG1JOAH-3/",
-      "views": 116,
+      "views": 126,
       "likes": 10,
       "comentarios": 0
     },
@@ -128,7 +136,7 @@
       "id": "18152369692527332",
       "data": "2026-10-15T04:14:45+0000",
       "link": "https://www.instagram.com/reel/DegEzXnDowP/",
-      "views": 24,
+      "views": 25,
       "likes": 4,
       "comentarios": 0
     },
@@ -168,8 +176,8 @@
       "id": "17875509021588281",
       "data": "2026-10-15T03:19:12+0000",
       "link": "https://www.instagram.com/reel/Def-crnkd77/",
-      "views": 1115,
-      "likes": 88,
+      "views": 1158,
+      "likes": 95,
       "comentarios": 0
     },
     {
@@ -216,7 +224,7 @@
       "id": "18039436571835775",
       "data": "2026-10-15T03:11:58+0000",
       "link": "https://www.instagram.com/reel/Def9n_5k5c0/",
-      "views": 289,
+      "views": 295,
       "likes": 24,
       "comentarios": 0
     },
