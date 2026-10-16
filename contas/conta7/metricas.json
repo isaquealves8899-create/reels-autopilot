@@ -1,14 +1,22 @@
 {
-  "atualizado": "2026-10-15T23:31:06.859Z",
+  "atualizado": "2026-10-16T00:01:09.142Z",
   "seguidores": 0,
-  "total_posts": 7,
-  "erro": "sem_insights",
+  "total_posts": 8,
+  "erro": null,
   "midias": [
+    {
+      "id": "18194471278400615",
+      "data": "2026-10-16T00:01:02+0000",
+      "link": "https://www.instagram.com/reel/DeiMkQllETV/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "17935260810403903",
       "data": "2026-10-15T23:30:58+0000",
       "link": "https://www.instagram.com/reel/DeiJIq0iOT5/",
-      "views": null,
+      "views": 0,
       "likes": 0,
       "comentarios": 0
     },
@@ -16,7 +24,7 @@
       "id": "17999112078040281",
       "data": "2026-10-15T23:01:42+0000",
       "link": "https://www.instagram.com/reel/DeiFyM4ia0d/",
-      "views": null,
+      "views": 0,
       "likes": 0,
       "comentarios": 0
     },
@@ -24,7 +32,7 @@
       "id": "18628385110007120",
       "data": "2026-10-15T22:31:36+0000",
       "link": "https://www.instagram.com/reel/DeiCTdkAE9E/",
-      "views": null,
+      "views": 0,
       "likes": 0,
       "comentarios": 0
     },
@@ -32,7 +40,7 @@
       "id": "18238512421316239",
       "data": "2026-10-15T22:01:04+0000",
       "link": "https://www.instagram.com/reel/Deh-1spkg2S/",
-      "views": null,
+      "views": 0,
       "likes": 0,
       "comentarios": 0
     },
@@ -40,7 +48,7 @@
       "id": "18493009765097225",
       "data": "2026-10-15T21:31:30+0000",
       "link": "https://www.instagram.com/reel/Deh7d9qGgZ_/",
-      "views": null,
+      "views": 0,
       "likes": 0,
       "comentarios": 0
     },
@@ -48,7 +56,7 @@
       "id": "18028045256878843",
       "data": "2026-10-15T21:01:43+0000",
       "link": "https://www.instagram.com/reel/Deh4EuGDE_m/",
-      "views": null,
+      "views": 0,
       "likes": 0,
       "comentarios": 0
     },
@@ -56,12 +64,13 @@
       "id": "18386604025228142",
       "data": "2026-10-15T16:01:12+0000",
       "link": "https://www.instagram.com/reel/DehVpARiquk/",
-      "views": null,
+      "views": 0,
       "likes": 0,
       "comentarios": 0
     }
   ],
   "historico": {
-    "2026-10-15": 0
+    "2026-10-15": 0,
+    "2026-10-16": 0
   }
 }
