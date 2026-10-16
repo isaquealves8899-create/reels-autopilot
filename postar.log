@@ -522,3 +522,35 @@
 [2026-10-16T03:10:18.504Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
 [2026-10-16T03:10:22.895Z] [conta2] Postando video_39 (lote 4, post 3/12)
 [2026-10-16T03:11:26.492Z] [conta2] OK - video_39 publicado. media_id=18081871913349259
+[2026-10-16T03:00:31.171Z] [conta1] Rodada em massa: até 15 vídeos.
+[2026-10-16T03:00:31.174Z] [conta1] Postando video_85 (lote 9, post 5/10)
+[2026-10-16T03:01:20.553Z] [conta1] OK - video_85 publicado. media_id=18095668748677879
+[2026-10-16T03:01:40.570Z] [conta1] Postando video_86 (lote 9, post 6/10)
+[2026-10-16T03:02:41.153Z] [conta1] OK - video_86 publicado. media_id=18107180243211847
+[2026-10-16T03:03:01.170Z] [conta1] Postando video_87 (lote 9, post 7/10)
+[2026-10-16T03:03:40.754Z] [conta1] OK - video_87 publicado. media_id=18023366840712676
+[2026-10-16T03:04:00.769Z] [conta1] Postando video_88 (lote 9, post 8/10)
+[2026-10-16T03:04:41.061Z] [conta1] OK - video_88 publicado. media_id=17900909520386397
+[2026-10-16T03:05:01.078Z] [conta1] Postando video_89 (lote 9, post 9/10)
+[2026-10-16T03:05:39.058Z] [conta1] OK - video_89 publicado. media_id=18132140663508001
+[2026-10-16T03:05:59.073Z] [conta1] Postando video_90 (lote 9, post 10/10)
+[2026-10-16T03:07:09.246Z] [conta1] OK - video_90 publicado. media_id=17902488519376555
+[2026-10-16T03:07:09.246Z] [conta1] Legenda trocou para o lote 10. Atualize a bio.
+[2026-10-16T03:07:29.249Z] [conta1] Postando video_91 (lote 10, post 1/10)
+[2026-10-16T03:07:58.297Z] [conta1] OK - video_91 publicado. media_id=18340433605257323
+[2026-10-16T03:08:18.314Z] [conta1] Postando video_92 (lote 10, post 2/10)
+[2026-10-16T03:08:56.686Z] [conta1] OK - video_92 publicado. media_id=18114326993464070
+[2026-10-16T03:09:16.702Z] [conta1] Postando video_93 (lote 10, post 3/10)
+[2026-10-16T03:10:05.931Z] [conta1] OK - video_93 publicado. media_id=18125951675493030
+[2026-10-16T03:10:25.947Z] [conta1] Postando video_94 (lote 10, post 4/10)
+[2026-10-16T03:11:58.134Z] [conta1] OK - video_94 publicado. media_id=18499886992096071
+[2026-10-16T03:12:18.152Z] [conta1] Postando video_95 (lote 10, post 5/10)
+[2026-10-16T03:13:16.614Z] [conta1] OK - video_95 publicado. media_id=18146608006583745
+[2026-10-16T03:13:36.630Z] [conta1] Postando video_96 (lote 10, post 6/10)
+[2026-10-16T03:14:17.726Z] [conta1] OK - video_96 publicado. media_id=18115923113025395
+[2026-10-16T03:14:37.732Z] [conta1] Postando video_97 (lote 10, post 7/10)
+[2026-10-16T03:15:18.710Z] [conta1] OK - video_97 publicado. media_id=18105113399372338
+[2026-10-16T03:15:38.721Z] [conta1] Postando video_98 (lote 10, post 8/10)
+[2026-10-16T03:16:21.368Z] [conta1] OK - video_98 publicado. media_id=18132017062683111
+[2026-10-16T03:16:41.384Z] [conta1] Postando video_99 (lote 10, post 9/10)
+[2026-10-16T03:17:23.431Z] [conta1] OK - video_99 publicado. media_id=18181548868426411
