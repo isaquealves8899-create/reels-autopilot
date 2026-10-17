@@ -1,14 +1,22 @@
 {
-  "atualizado": "2026-10-17T12:26:05.333Z",
+  "atualizado": "2026-10-17T12:56:01.341Z",
   "seguidores": 0,
-  "total_posts": 51,
+  "total_posts": 52,
   "erro": null,
   "midias": [
+    {
+      "id": "18149727214558176",
+      "data": "2026-10-17T12:55:53+0000",
+      "link": "https://www.instagram.com/reel/DemKCZrD6p-/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "17995074146843836",
       "data": "2026-10-17T12:25:56+0000",
       "link": "https://www.instagram.com/reel/DemGm07AKCo/",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comentarios": 0
     },
@@ -16,7 +24,7 @@
       "id": "18113191613052372",
       "data": "2026-10-17T11:55:49+0000",
       "link": "https://www.instagram.com/reel/DemDKwtAGDs/",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comentarios": 0
     },
@@ -32,7 +40,7 @@
       "id": "18635221318014794",
       "data": "2026-10-17T10:55:40+0000",
       "link": "https://www.instagram.com/reel/Del8TJUGPyc/",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comentarios": 0
     },
@@ -40,7 +48,7 @@
       "id": "18113558444594096",
       "data": "2026-10-17T10:26:14+0000",
       "link": "https://www.instagram.com/reel/Del46ivkxwe/",
-      "views": 0,
+      "views": 5,
       "likes": 0,
       "comentarios": 0
     },
@@ -48,7 +56,7 @@
       "id": "18395697736167167",
       "data": "2026-10-17T09:55:52+0000",
       "link": "https://www.instagram.com/reel/Del1bzVmADc/",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comentarios": 0
     },
@@ -160,7 +168,7 @@
       "id": "18094170845167890",
       "data": "2026-10-17T02:55:39+0000",
       "link": "https://www.instagram.com/reel/DelFXopjSVe/",
-      "views": 1978,
+      "views": 1983,
       "likes": 20,
       "comentarios": 2
     },
@@ -234,14 +242,6 @@
       "link": "https://www.instagram.com/reel/DekOiMagOg9/",
       "views": 255,
       "likes": 2,
-      "comentarios": 0
-    },
-    {
-      "id": "17913988206280607",
-      "data": "2026-10-16T18:25:51+0000",
-      "link": "https://www.instagram.com/reel/DekLAZuAajL/",
-      "views": 0,
-      "likes": 0,
       "comentarios": 0
     }
   ],
