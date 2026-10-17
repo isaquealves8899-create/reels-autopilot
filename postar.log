@@ -1154,3 +1154,5 @@
 [2026-10-17T15:16:04.774Z] [conta5] OK - video_58 publicado. media_id=17937807084390901
 [2026-10-17T15:20:22.950Z] [conta3] Postando video_59 (lote 5, post 11/12)
 [2026-10-17T15:21:36.941Z] [conta3] FALHOU video_59: Processamento falhou no lado da Meta
+[2026-10-17T15:25:16.342Z] [conta6] Postando video_56 (lote 5, post 8/12)
+[2026-10-17T15:27:20.668Z] [conta6] FALHOU video_56: Processamento falhou no lado da Meta
