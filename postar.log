@@ -1190,3 +1190,6 @@
 [2026-10-17T17:13:14.826Z] [conta8] Rodada em massa: até 10 vídeos.
 [2026-10-17T17:13:14.828Z] [conta8] Postando video_1 (lote 1, post 1/12)
 [2026-10-17T17:14:28.437Z] [conta8] FALHOU video_1: Processamento falhou no lado da Meta
+[2026-10-17T17:15:19.089Z] [conta5] Rodada em massa: até 10 vídeos.
+[2026-10-17T17:15:19.091Z] [conta5] Postando video_59 (lote 5, post 11/12)
+[2026-10-17T17:16:33.525Z] [conta5] FALHOU video_59: Processamento falhou no lado da Meta
