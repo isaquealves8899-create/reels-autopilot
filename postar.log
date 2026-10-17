@@ -1160,3 +1160,6 @@
 [2026-10-17T15:46:32.712Z] [conta5] FALHOU video_59: Processamento falhou no lado da Meta
 [2026-10-17T15:50:20.414Z] [conta3] Postando video_59 (lote 5, post 11/12)
 [2026-10-17T15:51:34.340Z] [conta3] FALHOU video_59: Processamento falhou no lado da Meta
+[2026-10-17T15:55:18.396Z] [conta6] Postando video_56 (lote 5, post 8/12)
+[2026-10-17T15:56:30.964Z] [conta6] FALHOU video_56: Processamento falhou no lado da Meta
+[2026-10-17T15:56:31.294Z] [conta6] Aviso "[conta6] Falha ao postar" já está aberto.
