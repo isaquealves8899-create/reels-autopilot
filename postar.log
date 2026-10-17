@@ -1169,3 +1169,5 @@
 [2026-10-17T16:16:56.632Z] [conta5] FALHOU video_59: Processamento falhou no lado da Meta
 [2026-10-17T16:20:22.034Z] [conta3] Postando video_59 (lote 5, post 11/12)
 [2026-10-17T16:21:35.762Z] [conta3] FALHOU video_59: Processamento falhou no lado da Meta
+[2026-10-17T16:25:16.591Z] [conta6] Postando video_56 (lote 5, post 8/12)
+[2026-10-17T16:26:29.910Z] [conta6] FALHOU video_56: Processamento falhou no lado da Meta
