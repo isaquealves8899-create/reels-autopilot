@@ -1,14 +1,22 @@
 {
-  "atualizado": "2026-10-17T05:56:00.209Z",
+  "atualizado": "2026-10-17T06:26:10.102Z",
   "seguidores": 0,
-  "total_posts": 38,
+  "total_posts": 39,
   "erro": null,
   "midias": [
+    {
+      "id": "18094558208176959",
+      "data": "2026-10-17T06:26:01+0000",
+      "link": "https://www.instagram.com/reel/DeldbohkRgs/",
+      "views": 0,
+      "likes": 0,
+      "comentarios": 0
+    },
     {
       "id": "18075844112465169",
       "data": "2026-10-17T05:55:51+0000",
       "link": "https://www.instagram.com/reel/DelZ9x3jYr8/",
-      "views": 0,
+      "views": 5,
       "likes": 0,
       "comentarios": 0
     },
@@ -16,7 +24,7 @@
       "id": "18061008677535444",
       "data": "2026-10-17T05:25:40+0000",
       "link": "https://www.instagram.com/reel/DelWjMGDvk5/",
-      "views": 1,
+      "views": 9,
       "likes": 0,
       "comentarios": 0
     },
@@ -24,7 +32,7 @@
       "id": "18220024486354196",
       "data": "2026-10-17T04:55:51+0000",
       "link": "https://www.instagram.com/reel/DelTGdij8l8/",
-      "views": 145,
+      "views": 152,
       "likes": 2,
       "comentarios": 0
     },
@@ -32,7 +40,7 @@
       "id": "18145467193570577",
       "data": "2026-10-17T04:26:12+0000",
       "link": "https://www.instagram.com/reel/DelPtPcFIo0/",
-      "views": 1,
+      "views": 7,
       "likes": 0,
       "comentarios": 0
     },
@@ -40,7 +48,7 @@
       "id": "18000165528038640",
       "data": "2026-10-17T03:55:42+0000",
       "link": "https://www.instagram.com/reel/DelMPYGCEd1/",
-      "views": 144,
+      "views": 148,
       "likes": 2,
       "comentarios": 0
     },
@@ -48,7 +56,7 @@
       "id": "17961988437233201",
       "data": "2026-10-17T03:25:42+0000",
       "link": "https://www.instagram.com/reel/DelIzZ_AE_D/",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "comentarios": 0
     },
@@ -56,15 +64,15 @@
       "id": "18094170845167890",
       "data": "2026-10-17T02:55:39+0000",
       "link": "https://www.instagram.com/reel/DelFXopjSVe/",
-      "views": 847,
-      "likes": 6,
+      "views": 1420,
+      "likes": 14,
       "comentarios": 2
     },
     {
       "id": "17872992867640363",
       "data": "2026-10-17T02:25:53+0000",
       "link": "https://www.instagram.com/reel/DelB8I3gMok/",
-      "views": 131,
+      "views": 133,
       "likes": 2,
       "comentarios": 0
     },
@@ -72,7 +80,7 @@
       "id": "18124210741969665",
       "data": "2026-10-17T01:55:51+0000",
       "link": "https://www.instagram.com/reel/Dek-gPUiedL/",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comentarios": 0
     },
@@ -80,15 +88,15 @@
       "id": "17873121591649723",
       "data": "2026-10-17T01:25:52+0000",
       "link": "https://www.instagram.com/reel/Dek7EtSiWx9/",
-      "views": 1775,
-      "likes": 47,
+      "views": 1784,
+      "likes": 48,
       "comentarios": 0
     },
     {
       "id": "18098759567541438",
       "data": "2026-10-16T21:26:33+0000",
       "link": "https://www.instagram.com/reel/Dekfs1vk6Sj/",
-      "views": 201,
+      "views": 202,
       "likes": 2,
       "comentarios": 0
     },
@@ -96,7 +104,7 @@
       "id": "18144925153575365",
       "data": "2026-10-16T20:55:53+0000",
       "link": "https://www.instagram.com/reel/DekcLKoDIEz/",
-      "views": 138,
+      "views": 139,
       "likes": 5,
       "comentarios": 0
     },
@@ -104,8 +112,8 @@
       "id": "18110695010224907",
       "data": "2026-10-16T20:25:51+0000",
       "link": "https://www.instagram.com/reel/DekYvIADuQO/",
-      "views": 761,
-      "likes": 5,
+      "views": 1289,
+      "likes": 8,
       "comentarios": 0
     },
     {
@@ -233,14 +241,6 @@
       "data": "2026-10-15T22:20:46+0000",
       "link": "https://www.instagram.com/reel/DeiBHCfjBfw/",
       "views": 227,
-      "likes": 1,
-      "comentarios": 0
-    },
-    {
-      "id": "17878538400562475",
-      "data": "2026-10-15T20:20:54+0000",
-      "link": "https://www.instagram.com/reel/DehzYJJDcNh/",
-      "views": 172,
       "likes": 1,
       "comentarios": 0
     }
