@@ -1,6 +1,6 @@
 {
-  "atualizado": "2026-10-17T20:21:34.639Z",
-  "seguidores": 16,
+  "atualizado": "2026-10-17T21:22:28.628Z",
+  "seguidores": 17,
   "total_posts": 59,
   "erro": null,
   "midias": [
@@ -8,7 +8,7 @@
       "id": "17876058249650970",
       "data": "2026-10-17T14:51:46+0000",
       "link": "https://www.instagram.com/reel/DemXREIAM9N/",
-      "views": 141,
+      "views": 149,
       "likes": 0,
       "comentarios": 0
     },
@@ -16,7 +16,7 @@
       "id": "17987812992086555",
       "data": "2026-10-17T14:21:08+0000",
       "link": "https://www.instagram.com/reel/DemTxqlFJbr/",
-      "views": 262,
+      "views": 291,
       "likes": 2,
       "comentarios": 0
     },
@@ -40,7 +40,7 @@
       "id": "18119142296008342",
       "data": "2026-10-16T20:50:55+0000",
       "link": "https://www.instagram.com/reel/Dekbm6lDOoH/",
-      "views": 1732,
+      "views": 1733,
       "likes": 20,
       "comentarios": 0
     },
@@ -48,8 +48,8 @@
       "id": "17986860024085822",
       "data": "2026-10-16T20:20:56+0000",
       "link": "https://www.instagram.com/reel/DekYLfLDXDp/",
-      "views": 1048,
-      "likes": 8,
+      "views": 1142,
+      "likes": 12,
       "comentarios": 0
     },
     {
@@ -72,8 +72,8 @@
       "id": "18097004747688541",
       "data": "2026-10-16T18:51:06+0000",
       "link": "https://www.instagram.com/reel/DekN599AA-k/",
-      "views": 6253,
-      "likes": 174,
+      "views": 6415,
+      "likes": 177,
       "comentarios": 0
     },
     {
@@ -88,8 +88,8 @@
       "id": "18285525382288158",
       "data": "2026-10-16T17:51:30+0000",
       "link": "https://www.instagram.com/reel/DekHCjmDFd8/",
-      "views": 1140,
-      "likes": 11,
+      "views": 1151,
+      "likes": 12,
       "comentarios": 4
     },
     {
@@ -152,7 +152,7 @@
       "id": "18072546959777231",
       "data": "2026-10-16T13:51:22+0000",
       "link": "https://www.instagram.com/reel/DejrjcPD35B/",
-      "views": 410,
+      "views": 412,
       "likes": 5,
       "comentarios": 0
     },
@@ -248,6 +248,6 @@
   "historico": {
     "2026-10-15": 11,
     "2026-10-16": 13,
-    "2026-10-17": 16
+    "2026-10-17": 17
   }
 }
