@@ -1630,3 +1630,8 @@
 [2026-10-20T19:25:19.349Z] [conta6] Postando video_56 (lote 5, post 8/12)
 [2026-10-20T19:26:38.811Z] [conta6] FALHOU video_56: Processamento falhou no lado da Meta
 [2026-10-20T19:26:39.270Z] [conta6] Aviso "[conta6] Falha ao postar" já está aberto.
+[2026-10-20T19:20:22.006Z] [conta3] Rodada em massa: até 10 vídeos.
+[2026-10-20T19:20:22.008Z] [conta3] Postando video_59 (lote 5, post 11/12)
+[2026-10-20T19:21:36.536Z] [conta3] FALHOU video_59: Processamento falhou no lado da Meta
+[2026-10-20T19:21:36.857Z] [conta3] Aviso "[conta3] Falha ao postar" já está aberto.
+[2026-10-20T19:30:21.310Z] [conta3] Respondi 15 comentário(s).
