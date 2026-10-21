@@ -1785,3 +1785,7 @@
 [2026-10-21T17:32:28.638Z] [conta3] Postando video_68 (lote 6, post 8/12)
 [2026-10-21T17:33:32.703Z] [conta3] OK - video_68 publicado. media_id=18415572124088272
 [2026-10-21T17:42:11.571Z] [conta3] Respondi 15 comentário(s).
+[2026-10-21T18:15:19.845Z] [conta5] Rodada em massa: até 10 vídeos.
+[2026-10-21T18:15:19.848Z] [conta5] Postando video_59 (lote 5, post 11/12)
+[2026-10-21T18:16:58.706Z] [conta5] FALHOU video_59: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"AEKiuwqA1Am80-xu-9Gdrqx"}
+[2026-10-21T18:16:59.028Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
