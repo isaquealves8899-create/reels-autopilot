@@ -1981,3 +1981,7 @@
 [2026-10-21T19:33:07.001Z] [conta3] Postando video_88 (lote 8, post 4/12)
 [2026-10-21T19:33:49.817Z] [conta3] OK - video_88 publicado. media_id=18134009629679745
 [2026-10-21T19:34:25.605Z] [conta3] Respondi 1 comentário(s).
+[2026-10-21T20:15:19.974Z] [conta5] Rodada em massa: até 10 vídeos.
+[2026-10-21T20:15:19.977Z] [conta5] Postando video_59 (lote 5, post 11/12)
+[2026-10-21T20:16:59.765Z] [conta5] FALHOU video_59: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"A-k-0UI_cLbXYf6tCa-925X"}
+[2026-10-21T20:17:00.100Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
