@@ -2078,3 +2078,7 @@
 [2026-10-21T20:31:37.869Z] [conta3] OK - video_97 publicado. media_id=18109172131904424
 [2026-10-21T20:31:57.885Z] [conta3] Postando video_98 (lote 9, post 2/12)
 [2026-10-21T20:33:00.935Z] [conta3] OK - video_98 publicado. media_id=18113854192862415
+[2026-10-21T21:15:20.033Z] [conta5] Rodada em massa: até 10 vídeos.
+[2026-10-21T21:15:20.036Z] [conta5] Postando video_59 (lote 5, post 11/12)
+[2026-10-21T21:16:58.934Z] [conta5] FALHOU video_59: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"AULIhMoAOVpAS55GCXGc8u0"}
+[2026-10-21T21:16:59.285Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
