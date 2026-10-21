@@ -2056,3 +2056,25 @@
 [2026-10-21T20:25:16.030Z] [conta6] Postando video_56 (lote 5, post 8/12)
 [2026-10-21T20:27:20.924Z] [conta6] FALHOU video_56: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"ASrgvHfBV-hsv84RruHD8zq"}
 [2026-10-21T20:27:21.350Z] [conta6] Aviso "[conta6] Falha ao postar" já está aberto.
+[2026-10-21T20:20:23.192Z] [conta3] Rodada em massa: até 10 vídeos.
+[2026-10-21T20:20:23.195Z] [conta3] Postando video_89 (lote 8, post 5/12)
+[2026-10-21T20:21:05.853Z] [conta3] OK - video_89 publicado. media_id=18111909224336952
+[2026-10-21T20:21:25.865Z] [conta3] Postando video_90 (lote 8, post 6/12)
+[2026-10-21T20:22:06.881Z] [conta3] OK - video_90 publicado. media_id=17894936919654707
+[2026-10-21T20:22:26.891Z] [conta3] Postando video_91 (lote 8, post 7/12)
+[2026-10-21T20:23:21.374Z] [conta3] OK - video_91 publicado. media_id=17911160067309602
+[2026-10-21T20:23:41.376Z] [conta3] Postando video_92 (lote 8, post 8/12)
+[2026-10-21T20:24:44.621Z] [conta3] OK - video_92 publicado. media_id=17900617392607263
+[2026-10-21T20:25:04.638Z] [conta3] Postando video_93 (lote 8, post 9/12)
+[2026-10-21T20:25:59.869Z] [conta3] OK - video_93 publicado. media_id=18068343608784385
+[2026-10-21T20:26:19.883Z] [conta3] Postando video_94 (lote 8, post 10/12)
+[2026-10-21T20:27:56.230Z] [conta3] OK - video_94 publicado. media_id=18146067592577536
+[2026-10-21T20:28:16.242Z] [conta3] Postando video_95 (lote 8, post 11/12)
+[2026-10-21T20:29:20.027Z] [conta3] OK - video_95 publicado. media_id=18119698984758831
+[2026-10-21T20:29:40.043Z] [conta3] Postando video_96 (lote 8, post 12/12)
+[2026-10-21T20:30:12.660Z] [conta3] OK - video_96 publicado. media_id=17871623559646223
+[2026-10-21T20:30:12.661Z] [conta3] Legenda trocou para o lote 9. Atualize a bio.
+[2026-10-21T20:30:32.677Z] [conta3] Postando video_97 (lote 9, post 1/12)
+[2026-10-21T20:31:37.869Z] [conta3] OK - video_97 publicado. media_id=18109172131904424
+[2026-10-21T20:31:57.885Z] [conta3] Postando video_98 (lote 9, post 2/12)
+[2026-10-21T20:33:00.935Z] [conta3] OK - video_98 publicado. media_id=18113854192862415
