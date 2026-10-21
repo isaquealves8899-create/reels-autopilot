@@ -1688,3 +1688,7 @@
 [2026-10-20T21:21:38.853Z] [conta3] FALHOU video_59: Processamento falhou no lado da Meta
 [2026-10-20T21:21:39.314Z] [conta3] Aviso "[conta3] Falha ao postar" já está aberto.
 [2026-10-20T21:30:26.090Z] [conta3] Respondi 15 comentário(s).
+[2026-10-21T17:15:18.898Z] [conta5] Rodada em massa: até 10 vídeos.
+[2026-10-21T17:15:18.900Z] [conta5] Postando video_59 (lote 5, post 11/12)
+[2026-10-21T17:17:27.412Z] [conta5] FALHOU video_59: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"AY2wyQbTXYe-td3kPra09Js"}
+[2026-10-21T17:17:27.758Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
