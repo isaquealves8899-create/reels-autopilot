@@ -1834,3 +1834,25 @@
 [2026-10-21T18:19:22.220Z] [conta4] OK - video_60 publicado. media_id=18114978263009581
 [2026-10-21T18:19:42.226Z] [conta4] Postando video_61 (lote 6, post 9/10)
 [2026-10-21T18:21:07.893Z] [conta4] OK - video_61 publicado. media_id=18108156515260665
+[2026-10-21T18:13:16.288Z] [conta8] Rodada em massa: até 10 vídeos.
+[2026-10-21T18:13:16.290Z] [conta8] Postando video_11 (lote 1, post 11/12)
+[2026-10-21T18:13:59.802Z] [conta8] OK - video_11 publicado. media_id=18141153796613762
+[2026-10-21T18:14:19.811Z] [conta8] Postando video_12 (lote 1, post 12/12)
+[2026-10-21T18:15:02.713Z] [conta8] OK - video_12 publicado. media_id=18219961156342230
+[2026-10-21T18:15:02.713Z] [conta8] Legenda trocou para o lote 2. Atualize a bio.
+[2026-10-21T18:15:22.731Z] [conta8] Postando video_13 (lote 2, post 1/12)
+[2026-10-21T18:15:56.045Z] [conta8] OK - video_13 publicado. media_id=18009139811782169
+[2026-10-21T18:16:16.062Z] [conta8] Postando video_14 (lote 2, post 2/12)
+[2026-10-21T18:16:58.711Z] [conta8] OK - video_14 publicado. media_id=18480940549112165
+[2026-10-21T18:17:18.728Z] [conta8] Postando video_15 (lote 2, post 3/12)
+[2026-10-21T18:18:00.064Z] [conta8] OK - video_15 publicado. media_id=18012128828988441
+[2026-10-21T18:18:20.081Z] [conta8] Postando video_16 (lote 2, post 4/12)
+[2026-10-21T18:19:02.798Z] [conta8] OK - video_16 publicado. media_id=18126394253298113
+[2026-10-21T18:19:22.815Z] [conta8] Postando video_17 (lote 2, post 5/12)
+[2026-10-21T18:19:55.657Z] [conta8] OK - video_17 publicado. media_id=17866740927679598
+[2026-10-21T18:20:15.674Z] [conta8] Postando video_18 (lote 2, post 6/12)
+[2026-10-21T18:20:49.975Z] [conta8] OK - video_18 publicado. media_id=18388187566225826
+[2026-10-21T18:21:09.982Z] [conta8] Postando video_19 (lote 2, post 7/12)
+[2026-10-21T18:21:53.491Z] [conta8] OK - video_19 publicado. media_id=18394337815160155
+[2026-10-21T18:22:13.508Z] [conta8] Postando video_20 (lote 2, post 8/12)
+[2026-10-21T18:23:16.460Z] [conta8] OK - video_20 publicado. media_id=17914795860283148
