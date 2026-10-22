@@ -2217,3 +2217,25 @@
 [2026-10-22T17:20:24.696Z] [conta3] Postando video_109 (lote 10, post 1/12)
 [2026-10-22T17:22:12.883Z] [conta3] FALHOU video_109: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"AJ0mzLhbVWEVgc0WK-XGSfj"}
 [2026-10-22T17:22:13.833Z] [conta3] Aviso "[conta3] Falha ao postar" já está aberto.
+[2026-10-22T17:13:14.460Z] [conta8] Rodada em massa: até 10 vídeos.
+[2026-10-22T17:13:14.463Z] [conta8] Postando video_51 (lote 5, post 3/12)
+[2026-10-22T17:14:35.544Z] [conta8] OK - video_51 publicado. media_id=18411091030092812
+[2026-10-22T17:14:55.551Z] [conta8] Postando video_52 (lote 5, post 4/12)
+[2026-10-22T17:15:36.324Z] [conta8] OK - video_52 publicado. media_id=18107647388571018
+[2026-10-22T17:15:56.341Z] [conta8] Postando video_53 (lote 5, post 5/12)
+[2026-10-22T17:16:37.341Z] [conta8] OK - video_53 publicado. media_id=18147125323605848
+[2026-10-22T17:16:57.348Z] [conta8] Postando video_54 (lote 5, post 6/12)
+[2026-10-22T17:17:37.838Z] [conta8] OK - video_54 publicado. media_id=18095599532149815
+[2026-10-22T17:17:57.854Z] [conta8] Postando video_55 (lote 5, post 7/12)
+[2026-10-22T17:19:21.026Z] [conta8] OK - video_55 publicado. media_id=18135207487736636
+[2026-10-22T17:19:41.043Z] [conta8] Postando video_56 (lote 5, post 8/12)
+[2026-10-22T17:20:23.172Z] [conta8] OK - video_56 publicado. media_id=17914791057538476
+[2026-10-22T17:20:43.176Z] [conta8] Postando video_57 (lote 5, post 9/12)
+[2026-10-22T17:21:55.023Z] [conta8] OK - video_57 publicado. media_id=17963905308213790
+[2026-10-22T17:22:15.036Z] [conta8] Postando video_58 (lote 5, post 10/12)
+[2026-10-22T17:23:58.245Z] [conta8] OK - video_58 publicado. media_id=18129146275856380
+[2026-10-22T17:24:18.263Z] [conta8] Postando video_59 (lote 5, post 11/12)
+[2026-10-22T17:24:48.333Z] [conta8] OK - video_59 publicado. media_id=18128530471648107
+[2026-10-22T17:25:08.350Z] [conta8] Postando video_60 (lote 5, post 12/12)
+[2026-10-22T17:25:38.882Z] [conta8] OK - video_60 publicado. media_id=18136869319655110
+[2026-10-22T17:25:38.882Z] [conta8] Legenda trocou para o lote 6. Atualize a bio.
