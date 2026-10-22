@@ -2239,3 +2239,7 @@
 [2026-10-22T17:25:08.350Z] [conta8] Postando video_60 (lote 5, post 12/12)
 [2026-10-22T17:25:38.882Z] [conta8] OK - video_60 publicado. media_id=18136869319655110
 [2026-10-22T17:25:38.882Z] [conta8] Legenda trocou para o lote 6. Atualize a bio.
+[2026-10-22T17:25:17.520Z] [conta6] Rodada em massa: até 10 vídeos.
+[2026-10-22T17:25:17.523Z] [conta6] Postando video_56 (lote 5, post 8/12)
+[2026-10-22T17:27:29.782Z] [conta6] FALHOU video_56: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"A9gHYIDgxLBnCIO3ijH9Xis"}
+[2026-10-22T17:27:30.261Z] [conta6] Aviso "[conta6] Falha ao postar" já está aberto.
