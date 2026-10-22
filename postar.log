@@ -2381,3 +2381,7 @@
 [2026-10-22T19:33:20.879Z] [conta3] OK - video_127 publicado. media_id=18115846658009400
 [2026-10-22T19:33:40.879Z] [conta3] Postando video_128 (lote 11, post 8/12)
 [2026-10-22T19:34:53.039Z] [conta3] OK - video_128 publicado. media_id=18478781713112634
+[2026-10-22T20:05:19.252Z] [conta4] Rodada em massa: até 10 vídeos.
+[2026-10-22T20:05:19.254Z] [conta4] Postando video_95 (lote 10, post 3/10)
+[2026-10-22T20:06:41.912Z] [conta4] FALHOU video_95: Processamento falhou no lado da Meta
+[2026-10-22T20:06:42.324Z] [conta4] Aviso "[conta4] Falha ao postar" já está aberto.
