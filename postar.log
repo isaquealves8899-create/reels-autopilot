@@ -2175,3 +2175,14 @@
 [2026-10-21T21:30:29.630Z] [conta3] Postando video_108 (lote 9, post 12/12)
 [2026-10-21T21:31:23.646Z] [conta3] OK - video_108 publicado. media_id=18189416248410761
 [2026-10-21T21:31:23.647Z] [conta3] Legenda trocou para o lote 10. Atualize a bio.
+[2026-10-22T17:05:20.859Z] [conta4] Rodada em massa: até 10 vídeos.
+[2026-10-22T17:05:20.862Z] [conta4] Postando video_92 (lote 9, post 10/10)
+[2026-10-22T17:06:25.470Z] [conta4] OK - video_92 publicado. media_id=17964580065214404
+[2026-10-22T17:06:25.470Z] [conta4] Legenda trocou para o lote 10. Atualize a bio.
+[2026-10-22T17:06:45.480Z] [conta4] Postando video_93 (lote 10, post 1/10)
+[2026-10-22T17:07:49.243Z] [conta4] OK - video_93 publicado. media_id=18118915687945820
+[2026-10-22T17:08:09.259Z] [conta4] Postando video_94 (lote 10, post 2/10)
+[2026-10-22T17:09:22.966Z] [conta4] OK - video_94 publicado. media_id=18428392030149752
+[2026-10-22T17:09:42.983Z] [conta4] Postando video_95 (lote 10, post 3/10)
+[2026-10-22T17:11:47.722Z] [conta4] FALHOU video_95: Processamento falhou no lado da Meta
+[2026-10-22T17:11:48.186Z] [conta4] Aviso "[conta4] Falha ao postar" já está aberto.
