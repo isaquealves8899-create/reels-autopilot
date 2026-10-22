@@ -2494,3 +2494,26 @@
 [2026-10-22T21:25:18.189Z] [conta6] Postando video_56 (lote 5, post 8/12)
 [2026-10-22T21:27:01.832Z] [conta6] FALHOU video_56: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"AzLyQ1lQVJIL-88i9r_cDhW"}
 [2026-10-22T21:27:02.410Z] [conta6] Aviso "[conta6] Falha ao postar" já está aberto.
+[2026-10-22T21:20:23.767Z] [conta3] Rodada em massa: até 10 vídeos.
+[2026-10-22T21:20:23.769Z] [conta3] Postando video_137 (lote 12, post 5/12)
+[2026-10-22T21:22:08.530Z] [conta3] OK - video_137 publicado. media_id=18083178602338479
+[2026-10-22T21:22:28.548Z] [conta3] Postando video_138 (lote 12, post 6/12)
+[2026-10-22T21:23:31.312Z] [conta3] OK - video_138 publicado. media_id=17905869783350808
+[2026-10-22T21:23:31.312Z] [conta3] Faltam 12 vídeos. Avisando.
+[2026-10-22T21:23:51.330Z] [conta3] Postando video_139 (lote 12, post 7/12)
+[2026-10-22T21:25:43.802Z] [conta3] OK - video_139 publicado. media_id=17952061101337112
+[2026-10-22T21:26:03.813Z] [conta3] Postando video_140 (lote 12, post 8/12)
+[2026-10-22T21:27:05.639Z] [conta3] OK - video_140 publicado. media_id=17955284400031719
+[2026-10-22T21:27:25.656Z] [conta3] Postando video_141 (lote 12, post 9/12)
+[2026-10-22T21:28:28.433Z] [conta3] OK - video_141 publicado. media_id=18184510615423498
+[2026-10-22T21:28:48.435Z] [conta3] Postando video_142 (lote 12, post 10/12)
+[2026-10-22T21:29:28.801Z] [conta3] OK - video_142 publicado. media_id=18491955544107654
+[2026-10-22T21:29:48.818Z] [conta3] Postando video_143 (lote 12, post 11/12)
+[2026-10-22T21:30:28.712Z] [conta3] OK - video_143 publicado. media_id=18089270663278086
+[2026-10-22T21:30:48.729Z] [conta3] Postando video_144 (lote 12, post 12/12)
+[2026-10-22T21:32:00.549Z] [conta3] OK - video_144 publicado. media_id=18014292146963545
+[2026-10-22T21:32:00.549Z] [conta3] Legenda trocou para o lote 13. Atualize a bio.
+[2026-10-22T21:32:20.568Z] [conta3] Postando video_145 (lote 13, post 1/12)
+[2026-10-22T21:33:00.075Z] [conta3] OK - video_145 publicado. media_id=18124463899931034
+[2026-10-22T21:33:20.092Z] [conta3] Postando video_146 (lote 13, post 2/12)
+[2026-10-22T21:34:21.926Z] [conta3] OK - video_146 publicado. media_id=18395215039164387
