@@ -2359,3 +2359,25 @@
 [2026-10-22T19:25:28.711Z] [conta6] Postando video_56 (lote 5, post 8/12)
 [2026-10-22T19:27:11.489Z] [conta6] FALHOU video_56: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"AiiLiWSbu6WA5YjxvsMUbrB"}
 [2026-10-22T19:27:12.066Z] [conta6] Aviso "[conta6] Falha ao postar" já está aberto.
+[2026-10-22T19:20:34.889Z] [conta3] Rodada em massa: até 10 vídeos.
+[2026-10-22T19:20:34.891Z] [conta3] Postando video_119 (lote 10, post 11/12)
+[2026-10-22T19:21:47.665Z] [conta3] OK - video_119 publicado. media_id=17883596274528567
+[2026-10-22T19:22:07.682Z] [conta3] Postando video_120 (lote 10, post 12/12)
+[2026-10-22T19:22:50.515Z] [conta3] OK - video_120 publicado. media_id=18106444900985447
+[2026-10-22T19:22:50.515Z] [conta3] Legenda trocou para o lote 11. Atualize a bio.
+[2026-10-22T19:23:10.533Z] [conta3] Postando video_121 (lote 11, post 1/12)
+[2026-10-22T19:24:23.681Z] [conta3] OK - video_121 publicado. media_id=18146997055599762
+[2026-10-22T19:24:43.698Z] [conta3] Postando video_122 (lote 11, post 2/12)
+[2026-10-22T19:26:14.865Z] [conta3] OK - video_122 publicado. media_id=18028002875869993
+[2026-10-22T19:26:34.881Z] [conta3] Postando video_123 (lote 11, post 3/12)
+[2026-10-22T19:27:15.934Z] [conta3] OK - video_123 publicado. media_id=18093344081676181
+[2026-10-22T19:27:35.951Z] [conta3] Postando video_124 (lote 11, post 4/12)
+[2026-10-22T19:28:31.028Z] [conta3] OK - video_124 publicado. media_id=17876444226650895
+[2026-10-22T19:28:51.045Z] [conta3] Postando video_125 (lote 11, post 5/12)
+[2026-10-22T19:30:05.829Z] [conta3] OK - video_125 publicado. media_id=18101595161536078
+[2026-10-22T19:30:25.846Z] [conta3] Postando video_126 (lote 11, post 6/12)
+[2026-10-22T19:31:39.906Z] [conta3] OK - video_126 publicado. media_id=18132615796687163
+[2026-10-22T19:31:59.923Z] [conta3] Postando video_127 (lote 11, post 7/12)
+[2026-10-22T19:33:20.879Z] [conta3] OK - video_127 publicado. media_id=18115846658009400
+[2026-10-22T19:33:40.879Z] [conta3] Postando video_128 (lote 11, post 8/12)
+[2026-10-22T19:34:53.039Z] [conta3] OK - video_128 publicado. media_id=18478781713112634
