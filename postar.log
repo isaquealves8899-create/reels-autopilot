@@ -2440,3 +2440,25 @@
 [2026-10-22T20:25:17.417Z] [conta6] Postando video_56 (lote 5, post 8/12)
 [2026-10-22T20:27:07.196Z] [conta6] FALHOU video_56: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"ASRiaPebY2K68zYxbKu_IJj"}
 [2026-10-22T20:27:07.687Z] [conta6] Aviso "[conta6] Falha ao postar" já está aberto.
+[2026-10-22T20:20:23.937Z] [conta3] Rodada em massa: até 10 vídeos.
+[2026-10-22T20:20:23.940Z] [conta3] Postando video_129 (lote 11, post 9/12)
+[2026-10-22T20:21:06.513Z] [conta3] OK - video_129 publicado. media_id=18153045052530436
+[2026-10-22T20:21:26.530Z] [conta3] Postando video_130 (lote 11, post 10/12)
+[2026-10-22T20:22:08.514Z] [conta3] OK - video_130 publicado. media_id=18188804794417965
+[2026-10-22T20:22:28.530Z] [conta3] Postando video_131 (lote 11, post 11/12)
+[2026-10-22T20:23:10.387Z] [conta3] OK - video_131 publicado. media_id=18569229817076476
+[2026-10-22T20:23:30.398Z] [conta3] Postando video_132 (lote 11, post 12/12)
+[2026-10-22T20:24:13.753Z] [conta3] OK - video_132 publicado. media_id=18102795293529808
+[2026-10-22T20:24:13.754Z] [conta3] Legenda trocou para o lote 12. Atualize a bio.
+[2026-10-22T20:24:33.772Z] [conta3] Postando video_133 (lote 12, post 1/12)
+[2026-10-22T20:25:24.777Z] [conta3] OK - video_133 publicado. media_id=18346583434283060
+[2026-10-22T20:25:44.794Z] [conta3] Postando video_134 (lote 12, post 2/12)
+[2026-10-22T20:26:27.762Z] [conta3] OK - video_134 publicado. media_id=18159958633509066
+[2026-10-22T20:26:47.778Z] [conta3] Postando video_135 (lote 12, post 3/12)
+[2026-10-22T20:27:16.759Z] [conta3] OK - video_135 publicado. media_id=17935040853403034
+[2026-10-22T20:27:36.776Z] [conta3] Postando video_136 (lote 12, post 4/12)
+[2026-10-22T20:28:11.354Z] [conta3] OK - video_136 publicado. media_id=17908864197327600
+[2026-10-22T20:28:31.370Z] [conta3] Postando video_137 (lote 12, post 5/12)
+[2026-10-22T20:29:58.155Z] [conta3] FALHOU video_137: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"AwypkQrNKSW5yxOTTNG5rtN"}
+[2026-10-22T20:29:58.626Z] [conta3] Aviso "[conta3] Falha ao postar" já está aberto.
+[2026-10-22T20:31:34.535Z] [conta3] Respondi 3 comentário(s).
