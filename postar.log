@@ -2213,3 +2213,7 @@
 [2026-10-22T17:11:35.555Z] [conta1] Postando video_219 (lote 22, post 9/10)
 [2026-10-22T17:12:27.430Z] [conta1] OK - video_219 publicado. media_id=18103395458009600
 [2026-10-22T17:21:11.660Z] [conta1] Respondi 15 comentário(s).
+[2026-10-22T17:20:24.693Z] [conta3] Rodada em massa: até 10 vídeos.
+[2026-10-22T17:20:24.696Z] [conta3] Postando video_109 (lote 10, post 1/12)
+[2026-10-22T17:22:12.883Z] [conta3] FALHOU video_109: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"AJ0mzLhbVWEVgc0WK-XGSfj"}
+[2026-10-22T17:22:13.833Z] [conta3] Aviso "[conta3] Falha ao postar" já está aberto.
