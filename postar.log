@@ -2389,3 +2389,27 @@
 [2026-10-22T20:15:18.347Z] [conta5] Postando video_59 (lote 5, post 11/12)
 [2026-10-22T20:16:48.796Z] [conta5] FALHOU video_59: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"ADjysdwjDcPJcEzKTOeLkWT"}
 [2026-10-22T20:16:49.275Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
+[2026-10-22T20:00:37.449Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-22T20:00:37.452Z] [conta1] Postando video_240 (lote 24, post 10/10)
+[2026-10-22T20:01:22.459Z] [conta1] OK - video_240 publicado. media_id=18000554490040041
+[2026-10-22T20:01:22.459Z] [conta1] Legenda trocou para o lote 25. Atualize a bio.
+[2026-10-22T20:01:42.476Z] [conta1] Postando video_241 (lote 25, post 1/10)
+[2026-10-22T20:02:25.470Z] [conta1] OK - video_241 publicado. media_id=18410885188092158
+[2026-10-22T20:02:45.486Z] [conta1] Postando video_242 (lote 25, post 2/10)
+[2026-10-22T20:03:31.371Z] [conta1] OK - video_242 publicado. media_id=18105394076262543
+[2026-10-22T20:03:51.387Z] [conta1] Postando video_243 (lote 25, post 3/10)
+[2026-10-22T20:04:36.524Z] [conta1] OK - video_243 publicado. media_id=18112116131155910
+[2026-10-22T20:04:36.524Z] [conta1] Faltam 12 vídeos. Avisando.
+[2026-10-22T20:04:56.542Z] [conta1] Postando video_244 (lote 25, post 4/10)
+[2026-10-22T20:05:38.749Z] [conta1] OK - video_244 publicado. media_id=17962559649227728
+[2026-10-22T20:05:58.766Z] [conta1] Postando video_245 (lote 25, post 5/10)
+[2026-10-22T20:07:34.593Z] [conta1] OK - video_245 publicado. media_id=17966503649978899
+[2026-10-22T20:07:54.609Z] [conta1] Postando video_246 (lote 25, post 6/10)
+[2026-10-22T20:08:27.436Z] [conta1] OK - video_246 publicado. media_id=18171192643406774
+[2026-10-22T20:08:47.451Z] [conta1] Postando video_247 (lote 25, post 7/10)
+[2026-10-22T20:09:30.764Z] [conta1] OK - video_247 publicado. media_id=18044313296834300
+[2026-10-22T20:09:50.775Z] [conta1] Postando video_248 (lote 25, post 8/10)
+[2026-10-22T20:10:32.679Z] [conta1] OK - video_248 publicado. media_id=18140104918618070
+[2026-10-22T20:10:52.697Z] [conta1] Postando video_249 (lote 25, post 9/10)
+[2026-10-22T20:11:37.757Z] [conta1] OK - video_249 publicado. media_id=18059799875560132
+[2026-10-22T20:19:58.232Z] [conta1] Respondi 15 comentário(s).
