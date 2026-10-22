@@ -2328,3 +2328,7 @@
 [2026-10-22T19:13:14.596Z] [conta8] Postando video_71 (lote 6, post 11/12)
 [2026-10-22T19:14:51.091Z] [conta8] FALHOU video_71: {"message":"User is performing too many actions","type":"OAuthException","is_transient":false,"code":9,"error_subcode":2207042,"error_user_title":"Limite de publicação de mídia excedido","error_user_msg":"Você atingiu o número máximo de posts que podem ser feitos pela API de Publicação de Conteúdo.","fbtrace_id":"ARhbupO7DbBQx1U4y53i49c"}
 [2026-10-22T19:14:51.481Z] [conta8] Aviso "[conta8] Falha ao postar" já está aberto.
+[2026-10-22T19:15:21.694Z] [conta5] Rodada em massa: até 10 vídeos.
+[2026-10-22T19:15:21.696Z] [conta5] Postando video_59 (lote 5, post 11/12)
+[2026-10-22T19:16:59.995Z] [conta5] FALHOU video_59: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"Ah9qaZ2fynGASbrB-4jU4TE"}
+[2026-10-22T19:17:00.514Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
