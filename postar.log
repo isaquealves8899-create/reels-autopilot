@@ -2520,3 +2520,8 @@
 [2026-10-23T17:00:32.373Z] [conta1] Rodada em massa: até 10 vídeos.
 [2026-10-23T17:00:32.375Z] [conta1] Nenhum vídeo restante para postar.
 [2026-10-23T17:09:02.133Z] [conta1] Respondi 15 comentário(s).
+[2026-10-23T17:05:20.677Z] [conta4] Rodada em massa: até 10 vídeos.
+[2026-10-23T17:05:20.680Z] [conta4] Postando video_95 (lote 10, post 3/10)
+[2026-10-23T17:07:47.698Z] [conta4] FALHOU video_95: Processamento falhou no lado da Meta
+[2026-10-23T17:07:48.203Z] [conta4] Aviso "[conta4] Falha ao postar" já está aberto.
+[2026-10-23T17:09:12.570Z] [conta4] Respondi 2 comentário(s).
