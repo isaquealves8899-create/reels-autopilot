@@ -2580,3 +2580,7 @@
 [2026-10-23T19:00:34.713Z] [conta1] Nenhum vídeo restante para postar.
 [2026-10-23T19:00:35.298Z] [conta1] Aviso "[conta1] Acabaram os vídeos" já está aberto.
 [2026-10-23T19:10:15.944Z] [conta1] Respondi 15 comentário(s).
+[2026-10-23T19:13:16.579Z] [conta8] Rodada em massa: até 10 vídeos.
+[2026-10-23T19:13:16.581Z] [conta8] Postando video_81 (lote 7, post 9/12)
+[2026-10-23T19:14:30.239Z] [conta8] FALHOU video_81: Processamento falhou no lado da Meta
+[2026-10-23T19:14:30.672Z] [conta8] Aviso "[conta8] Falha ao postar" já está aberto.
