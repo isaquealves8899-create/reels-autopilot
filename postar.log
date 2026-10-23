@@ -2584,3 +2584,7 @@
 [2026-10-23T19:13:16.581Z] [conta8] Postando video_81 (lote 7, post 9/12)
 [2026-10-23T19:14:30.239Z] [conta8] FALHOU video_81: Processamento falhou no lado da Meta
 [2026-10-23T19:14:30.672Z] [conta8] Aviso "[conta8] Falha ao postar" já está aberto.
+[2026-10-23T19:15:20.430Z] [conta5] Rodada em massa: até 10 vídeos.
+[2026-10-23T19:15:20.432Z] [conta5] Postando video_59 (lote 5, post 11/12)
+[2026-10-23T19:17:02.317Z] [conta5] FALHOU video_59: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"AarB0oJUtjhbcSV4aViIvGt"}
+[2026-10-23T19:17:02.921Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
