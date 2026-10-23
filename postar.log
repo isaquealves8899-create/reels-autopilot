@@ -2543,3 +2543,7 @@
 [2026-10-23T17:24:17.537Z] [conta3] Postando video_150 (lote 13, post 6/12)
 [2026-10-23T17:25:53.939Z] [conta3] OK - video_150 publicado. media_id=17915331732530478
 [2026-10-23T17:25:53.940Z] [conta3] Fila acabou no meio da rodada.
+[2026-10-23T17:25:17.730Z] [conta6] Rodada em massa: até 10 vídeos.
+[2026-10-23T17:25:17.733Z] [conta6] Postando video_56 (lote 5, post 8/12)
+[2026-10-23T17:26:58.949Z] [conta6] FALHOU video_56: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"A56rTrgsZBaG8HE0Myj0qUr"}
+[2026-10-23T17:26:59.409Z] [conta6] Aviso "[conta6] Falha ao postar" já está aberto.
