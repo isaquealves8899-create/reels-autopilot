@@ -2628,3 +2628,8 @@
 [2026-10-23T21:13:16.149Z] [conta8] Postando video_81 (lote 7, post 9/12)
 [2026-10-23T21:14:30.864Z] [conta8] FALHOU video_81: Processamento falhou no lado da Meta
 [2026-10-23T21:14:31.312Z] [conta8] Aviso "[conta8] Falha ao postar" já está aberto.
+[2026-10-23T21:05:19.250Z] [conta4] Rodada em massa: até 10 vídeos.
+[2026-10-23T21:05:19.253Z] [conta4] Postando video_95 (lote 10, post 3/10)
+[2026-10-23T21:06:51.920Z] [conta4] FALHOU video_95: Processamento falhou no lado da Meta
+[2026-10-23T21:06:52.299Z] [conta4] Aviso "[conta4] Falha ao postar" já está aberto.
+[2026-10-23T21:15:58.513Z] [conta4] Respondi 15 comentário(s).
