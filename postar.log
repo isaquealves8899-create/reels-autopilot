@@ -2718,3 +2718,8 @@
 [2026-10-24T19:25:16.787Z] [conta6] Postando video_56 (lote 5, post 8/12)
 [2026-10-24T19:26:32.238Z] [conta6] FALHOU video_56: Processamento falhou no lado da Meta
 [2026-10-24T19:26:32.639Z] [conta6] Aviso "[conta6] Falha ao postar" já está aberto.
+[2026-10-24T20:05:19.273Z] [conta4] Rodada em massa: até 10 vídeos.
+[2026-10-24T20:05:19.275Z] [conta4] Postando video_95 (lote 10, post 3/10)
+[2026-10-24T20:05:19.961Z] [conta4] FALHOU video_95: {"message":"Unsupported post request. Object with ID '17841415622185398' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AatirjwoyVBSPo_7Iqbjn9s"}
+[2026-10-24T20:05:20.053Z] [conta4] Métricas não atualizaram: Unsupported get request. Object with ID '17841415622185398' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2026-10-24T20:05:20.525Z] [conta4] Aviso "[conta4] Falha ao postar" já está aberto.
