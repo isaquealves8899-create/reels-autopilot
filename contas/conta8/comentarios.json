@@ -1,11 +1,11 @@
 {
-  "dia": "2026-10-23",
-  "hoje": 1,
+  "dia": "2026-10-24",
+  "hoje": 0,
   "varredura": {
     "posts_varridos": 106,
     "depois": "QVFIVHpyVkl6ZAzJrekllNUZAEMXFUNVl4aGZAlMUFPQjFjTHRoWHVla2EtZAGVZAZAjM3OGh1UmtXMUZAWRHV4bzV6cTBZAYkRIbm94MkZA2bHZAsOE5jMlVEdEYyb01n"
   },
-  "erro": null,
+  "erro": "sem_permissao",
   "total": 15,
-  "atualizado": "2026-10-23T21:14:33.616Z"
+  "atualizado": "2026-10-24T17:13:13.967Z"
 }
