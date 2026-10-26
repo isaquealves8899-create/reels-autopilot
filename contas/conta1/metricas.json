@@ -1,6 +1,6 @@
 {
-  "atualizado": "2026-10-26T19:00:32.620Z",
-  "seguidores": 3501,
+  "atualizado": "2026-10-26T20:00:32.539Z",
+  "seguidores": 3502,
   "total_posts": 439,
   "erro": null,
   "midias": [
@@ -8,7 +8,7 @@
       "id": "17900769480670738",
       "data": "2026-10-22T21:06:20+0000",
       "link": "https://www.instagram.com/reel/Dez6JKlAS82/",
-      "views": 110,
+      "views": 111,
       "likes": 0,
       "comentarios": 0
     },
@@ -16,7 +16,7 @@
       "id": "18098045576394489",
       "data": "2026-10-22T21:05:20+0000",
       "link": "https://www.instagram.com/reel/Dez6BxbEmdk/",
-      "views": 110,
+      "views": 111,
       "likes": 1,
       "comentarios": 0
     },
@@ -24,7 +24,7 @@
       "id": "17991687062885395",
       "data": "2026-10-22T21:04:19+0000",
       "link": "https://www.instagram.com/reel/Dez57ZvjX21/",
-      "views": 100,
+      "views": 102,
       "likes": 2,
       "comentarios": 0
     },
@@ -64,7 +64,7 @@
       "id": "18140104918618070",
       "data": "2026-10-22T20:10:27+0000",
       "link": "https://www.instagram.com/reel/DezzviaDSkc/",
-      "views": 116,
+      "views": 121,
       "likes": 1,
       "comentarios": 0
     },
@@ -80,7 +80,7 @@
       "id": "18171192643406774",
       "data": "2026-10-22T20:08:20+0000",
       "link": "https://www.instagram.com/reel/DezzhhznNb5/",
-      "views": 319,
+      "views": 324,
       "likes": 2,
       "comentarios": 0
     },
@@ -120,7 +120,7 @@
       "id": "18410885188092158",
       "data": "2026-10-22T20:02:18+0000",
       "link": "https://www.instagram.com/reel/Dezyz8IDy0Q/",
-      "views": 129,
+      "views": 131,
       "likes": 0,
       "comentarios": 0
     },
@@ -144,7 +144,7 @@
       "id": "18046432988832355",
       "data": "2026-10-22T19:11:29+0000",
       "link": "https://www.instagram.com/reel/Dezs_sqiVkU/",
-      "views": 76,
+      "views": 77,
       "likes": 2,
       "comentarios": 0
     },
@@ -256,6 +256,6 @@
     "2026-10-23": 3480,
     "2026-10-24": 3503,
     "2026-10-25": 3503,
-    "2026-10-26": 3501
+    "2026-10-26": 3502
   }
 }
