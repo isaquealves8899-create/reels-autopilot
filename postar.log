@@ -3010,3 +3010,8 @@
 [2026-10-26T20:25:17.069Z] [conta6] Postando video_56 (lote 5, post 8/12)
 [2026-10-26T20:26:57.719Z] [conta6] FALHOU video_56: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"A7qCOnkJHFOlH3iJTjUtmxj"}
 [2026-10-26T20:26:58.184Z] [conta6] Aviso "[conta6] Falha ao postar" já está aberto.
+[2026-10-26T21:05:20.589Z] [conta4] Rodada em massa: até 10 vídeos.
+[2026-10-26T21:05:20.590Z] [conta4] Postando video_95 (lote 10, post 3/10)
+[2026-10-26T21:05:21.131Z] [conta4] FALHOU video_95: {"message":"Unsupported post request. Object with ID '17841415622185398' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"A3qiCUWDnmln3wTRoo37-ae"}
+[2026-10-26T21:05:21.368Z] [conta4] Métricas não atualizaram: Unsupported get request. Object with ID '17841415622185398' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2026-10-26T21:05:21.673Z] [conta4] Aviso "[conta4] Falha ao postar" já está aberto.
