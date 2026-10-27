@@ -3050,3 +3050,8 @@
 [2026-10-27T17:16:40.433Z] [conta5] FALHOU video_59: {"message":"Unsupported post request. Object with ID '17841417184858631' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AnjAQgWmV0P_jcnmXXY5Vdz"}
 [2026-10-27T17:16:40.627Z] [conta5] Métricas não atualizaram: Unsupported get request. Object with ID '17841417184858631' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
 [2026-10-27T17:16:40.964Z] [conta5] Aviso "[conta5] Falha ao postar" já está aberto.
+[2026-10-27T17:17:15.532Z] [conta8] Rodada em massa: até 10 vídeos.
+[2026-10-27T17:17:15.535Z] [conta8] Postando video_81 (lote 7, post 9/12)
+[2026-10-27T17:17:16.393Z] [conta8] FALHOU video_81: {"message":"Unsupported post request. Object with ID '17841423412626607' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AOFg0fGGj7xv1hevB_LA2kI"}
+[2026-10-27T17:17:16.534Z] [conta8] Métricas não atualizaram: Unsupported get request. Object with ID '17841423412626607' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2026-10-27T17:17:16.951Z] [conta8] Aviso "[conta8] Falha ao postar" já está aberto.
