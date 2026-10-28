@@ -3194,3 +3194,7 @@
 [2026-10-28T17:20:24.695Z] [conta3] Nenhum vídeo restante para postar.
 [2026-10-28T17:20:25.306Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
 [2026-10-28T17:28:29.937Z] [conta3] Respondi 15 comentário(s).
+[2026-10-28T18:00:33.848Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-28T18:00:33.851Z] [conta1] Nenhum vídeo restante para postar.
+[2026-10-28T18:00:34.334Z] [conta1] Métricas não atualizaram: Unsupported get request. Object with ID '17841416341553673' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2026-10-28T18:00:34.492Z] [conta1] Aviso "[conta1] Acabaram os vídeos" já está aberto.
