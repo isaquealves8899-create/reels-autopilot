@@ -3410,3 +3410,7 @@
 [2026-10-29T20:25:17.753Z] [conta6] Postando video_56 (lote 5, post 8/12)
 [2026-10-29T20:26:46.803Z] [conta6] FALHOU video_56: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"A2f5oel7eY9Fy0KatD2q3OD"}
 [2026-10-29T20:26:47.397Z] [conta6] Aviso "[conta6] Falha ao postar" já está aberto.
+[2026-10-29T21:00:33.078Z] [conta1] Rodada em massa: até 10 vídeos.
+[2026-10-29T21:00:33.081Z] [conta1] Nenhum vídeo restante para postar.
+[2026-10-29T21:00:33.500Z] [conta1] Métricas não atualizaram: Unsupported get request. Object with ID '17841416341553673' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[2026-10-29T21:00:33.587Z] [conta1] Aviso "[conta1] Acabaram os vídeos" já está aberto.
