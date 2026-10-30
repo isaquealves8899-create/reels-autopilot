@@ -3562,3 +3562,7 @@
 [2026-10-30T21:20:23.349Z] [conta3] Rodada em massa: até 10 vídeos.
 [2026-10-30T21:20:23.352Z] [conta3] Nenhum vídeo restante para postar.
 [2026-10-30T21:20:23.893Z] [conta3] Aviso "[conta3] Acabaram os vídeos" já está aberto.
+[2026-10-30T21:25:17.250Z] [conta6] Rodada em massa: até 10 vídeos.
+[2026-10-30T21:25:17.253Z] [conta6] Postando video_56 (lote 5, post 8/12)
+[2026-10-30T21:26:51.937Z] [conta6] FALHOU video_56: {"message":"Fatal","type":"OAuthException","code":-1,"error_subcode":2207085,"is_transient":false,"error_user_title":"Erro interno genérico","error_user_msg":"Ocorreu um erro interno do servidor. Tente novamente mais tarde.","fbtrace_id":"AF-XnsTZb0HezfP5p470p_2"}
+[2026-10-30T21:26:52.496Z] [conta6] Aviso "[conta6] Falha ao postar" já está aberto.
